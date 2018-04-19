@@ -1,0 +1,14 @@
+#+TITLE: Benchmarks using in CoDBM papers(s)
+
+Benchmarks used in Compact Difference Bound Matrices (APLAS 17) and
+Incrementally Closing Octagons (FMSD)
+
+Can be used with the APLAS17 implementation
+(github.com/aziem/apron-aplas) and the subsequently improved version
+(github.com/aziem/apron-kent)
+
+Each folder contains a runeva.sh script which executes frama-c on the
+benchmark. The script uses multitime
+(http://tratt.net/laurie/src/multitime/) and requires frama-c to be
+installed with the binary available from $PATH. (We usually install
+frama-c via opam).
