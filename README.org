@@ -1,4 +1,4 @@
-#+TITLE: Benchmarks using in CoDBM papers(s)
+#+TITLE: Frama-C Benchmarks used in CoDBM papers(s)
 
 Benchmarks used in Compact Difference Bound Matrices (APLAS 17) and
 Incrementally Closing Octagons (FMSD)
